@@ -110,7 +110,7 @@ class Contact extends Component {
                 {name}
                 <br />
                 {street} <br />
-                {city}, {state} <p style={{ color: "lime" }}>{zip}</p>
+                {city}, {state} {zip}
                 <br />
                 <span>{phone}</span>
               </p>
