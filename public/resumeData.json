@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Dinesh Katariya",
+    "occupation": "web developer",
+    "description": "I have just completed my post-graduation (MCA). learning reactjs and mern stack right now.",
+    "image": "profilepic.jpg",
+    "bio": "i have completed Master of Computer Application from Ganpat university. i am a web developer , my expertise in 1) ReactJs 2) HTML 3) CSS 4) Javascript 5) bootstrap. currently learning MernStack ",
+    "contactmessage": "Have a project for me? or Job offer ?  I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "thedineshk24@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "Banaskantha",
+      "city": "palanpur",
+      "state": "Gujarat",
+      "zip": ""
+    },
+    "website": "https://www.linkedin.com/in/dinesh-katariya-505116154/",
+    "resumedownload": "https://drive.google.com/file/d/1oDisdYNPFpkG9zTDqVqf098U0NJa3Ht1/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Thedineshk24/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/thedineshk24",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "#",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dinesh-katariya-505116154/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thedineshk24/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Thedineshk24",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "#",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Hemchandracharya North Gujarat University",
+        "degree": "Bachelor of Computer Application",
+        "graduated": "2018",
+        "description": "During my bachelor's I learned fundamentals of programming languages , operating system basics, and in last semester i created online hill station information project using technologies ,  PHP | MYSQL | HTML | CSS | BOOTSTRAP "
+      },
+      {
+        "school": "Ganpat university",
+        "degree": "Master of Computer Application",
+        "graduated": "2020",
+        "description": "I learned Android apps developement & Some other technologies , "
+      }
+    ],
+    "work": [
+      {
+        "company": "Fresher",
+        "title": "Currently i am learning MernStack",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "HTML",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram clone",
+        "category": "online photo sharing",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://instagram-react-clone-980dc.web.app/"
+      },
+      {
+        "title": "tinder clone",
+        "category": "tinder clone reactjs app",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://tinder-clone-4d045.web.app/"
+      },
+      {
+        "title": "portfolio website",
+        "category": "Website I built using html and css for my portfolio",
+        "image": "original-thai-food.jpg",
+        "url": "https://thedineshk24.github.io/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based simple Youtube clone app",
+        "image": "resume-website.jpg",
+        "url": "https://clone-5d70c.web.app/"
+      }
+    ]
+  }
+}
