@@ -1,20 +1,6 @@
 import React, { Component } from "react";
 import emailjs from "emailjs-com";
-// import apiKeys from "../apikeys";
 
-// const onSubmit = (e) => {
-//   e.preventDefault(); // Prevents default refresh by the browser
-//   emailjs
-//     .sendForm("gmail", apiKeys.TEMPLATE_ID, e.target, apiKeys.USER_ID)
-//     .then(
-//       (result) => {
-//         alert("Message Sent, I'll get back to you shortly", result.text);
-//       },
-//       (error) => {
-//         alert("An error occured, Plese try again", error.text);
-//       }
-//     );
-// };
 class Contact extends Component {
   render() {
     if (this.props.data) {
