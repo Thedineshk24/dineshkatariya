@@ -55,7 +55,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "list of technologies i used till now",
     "education": [
       {
         "school": "Hemchandracharya North Gujarat University",
@@ -67,13 +67,13 @@
         "school": "Ganpat university",
         "degree": "Master of Computer Application",
         "graduated": "2020",
-        "description": "I learned Android apps developement & Some other technologies , "
+        "description": "I learned Android apps developement & Some other technologies , Also i learnt basics of ML and python.  "
       }
     ],
     "work": [
       {
         "company": "Fresher",
-        "title": "Currently i am learning MernStack",
+        "title": "learning MernStack",
         "years": "",
         "description": ""
       },
@@ -112,6 +112,14 @@
       {
         "name": "MongoDB",
         "level": "30%"
+      },
+      {
+        "name": "Android",
+        "level": "40%"
+      },
+      {
+        "name": "corejava",
+        "level": "40%"
       }
     ]
   },
@@ -120,25 +128,25 @@
       {
         "title": "Instagram clone",
         "category": "online photo sharing",
-        "image": "canadian-wanderlust.jpg",
+        "image": "insta-clone-reactjs.jpg",
         "url": "https://instagram-react-clone-980dc.web.app/"
       },
       {
         "title": "tinder clone",
         "category": "tinder clone reactjs app",
-        "image": "fury-fighting-gear.jpg",
+        "image": "tinder-clone-reactjs.jpg",
         "url": "https://tinder-clone-4d045.web.app/"
       },
       {
         "title": "portfolio website",
         "category": "Website I built using html and css for my portfolio",
-        "image": "original-thai-food.jpg",
+        "image": "dinesh-katariya-portfolio-website.jpg",
         "url": "https://thedineshk24.github.io/"
       },
       {
-        "title": "Resume Website",
+        "title": "youtube clone",
         "category": "A React based simple Youtube clone app",
-        "image": "resume-website.jpg",
+        "image": "youtube-clone-reactjs.jpg",
         "url": "https://clone-5d70c.web.app/"
       }
     ]

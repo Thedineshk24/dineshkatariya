@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dineshkatariya/static/css/main.5facb584.chunk.css",
-    "main.js": "/dineshkatariya/static/js/main.6f22c2f9.chunk.js",
-    "main.js.map": "/dineshkatariya/static/js/main.6f22c2f9.chunk.js.map",
+    "main.js": "/dineshkatariya/static/js/main.b96785b8.chunk.js",
+    "main.js.map": "/dineshkatariya/static/js/main.b96785b8.chunk.js.map",
     "runtime-main.js": "/dineshkatariya/static/js/runtime-main.d35589fd.js",
     "runtime-main.js.map": "/dineshkatariya/static/js/runtime-main.d35589fd.js.map",
     "static/js/2.29e034a0.chunk.js": "/dineshkatariya/static/js/2.29e034a0.chunk.js",
     "static/js/2.29e034a0.chunk.js.map": "/dineshkatariya/static/js/2.29e034a0.chunk.js.map",
     "index.html": "/dineshkatariya/index.html",
-    "precache-manifest.c2f2fba05df33322fb387196d1afcf47.js": "/dineshkatariya/precache-manifest.c2f2fba05df33322fb387196d1afcf47.js",
+    "precache-manifest.1d23faf67f3a0b36db8e6f847167035a.js": "/dineshkatariya/precache-manifest.1d23faf67f3a0b36db8e6f847167035a.js",
     "service-worker.js": "/dineshkatariya/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/dineshkatariya/static/css/main.5facb584.chunk.css.map",
     "static/js/2.29e034a0.chunk.js.LICENSE.txt": "/dineshkatariya/static/js/2.29e034a0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d35589fd.js",
     "static/js/2.29e034a0.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.6f22c2f9.chunk.js"
+    "static/js/main.b96785b8.chunk.js"
   ]
 }
